@@ -1,0 +1,23 @@
+canvas {
+	padding-left: 0;
+	padding-right: 0;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+	border: 5px solid #3a5032;
+	background-color: #3a5032;
+	border-radius: 4px;
+}
+#canvasHolder {
+	padding-top: 40px;
+	padding-bottom: 0px;
+	position: relative;
+	margin: 0 auto;
+}
+#controls {
+	font-size: 20px;
+	font-family: "Montserrat", serif;
+	line-height: 10px;
+	text-align: center;
+	padding-bottom: 60px;
+}
